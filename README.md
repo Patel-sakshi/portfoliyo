@@ -19,7 +19,7 @@ align="center">
 <!---row2---->
 <tr>
 <td>
-<font size="6"color="white">Hi,I'm Anushree</font><br>
+<font size="6"color="white">Hi,I'm sakshi</font><br>
 <font size="5"color="white">I'm a first-year student of BSC(CS IT)</font>
 
 <font size="5"color="#ff8a00">
@@ -43,7 +43,7 @@ align="center">
 
 <font size="5"color="#ff8a00">
 <p><b><u>countact us</u></b></p>
-<font color="white"><p>8128539657</P></font>
+<font color="white"><p>7490941011</P></font>
 
 
 </font>
@@ -54,7 +54,7 @@ align="center">
 
 
 </td>
-<td><img src="img/"C:\Users\Admin\Desktop\Anu Photo.jpg
+<td><img src="imgfile:///C:/Users/hp/OneDrive/Pictures/Saved%20Pictures/sakshi.jpeg
 height="400px"></td>
 </tr>
 
